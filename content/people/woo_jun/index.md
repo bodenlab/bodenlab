@@ -2,6 +2,7 @@
 title: 'Woo Jun (Chris) Shim'
 date: 2019-02-11T19:27:37+10:00
 weight: 10
+summary: " "
 ---
 
 E-mail: <woo.shim@uqconnect.edu.au>

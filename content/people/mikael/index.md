@@ -2,6 +2,8 @@
 title: 'Associate Professor Mikael Boden (Group Leader)'
 date: 2019-02-11T19:27:37+10:00
 weight: 1
+summary: " "
+
 ---
 
 My PhD is from the University of Exeter, UK, in computer science, AI and machine learning. I was a postdoctoral research fellow in the School of Computer Science and Electrical Engineering at The University of Queensland. I was a senior research fellow in the Institute for Molecular Bioscience before my current appointment as Associate Professor at the School of Chemistry and Molecular Biosciences, both at UQ. I am the Director of Bioinformatics postgraduate programs.
