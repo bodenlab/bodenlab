@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Boden Lab"
 
 baseURL = "http://bodenlab.github.io/"
 themesDir = "themes"
@@ -37,7 +37,7 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
+  homepage_button_link = '/tools'
   homepage_button_text = 'View Tools'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
 
@@ -52,9 +52,8 @@ summaryLength = 30
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
     meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
+      mobile = "/images/logo.gif"
       standard  = "/images/logo.gif"

@@ -4,12 +4,12 @@ date: 2019-02-11T19:27:37+10:00
 weight: 7
 ---
 
-To use this theme you will need to have Hugo installed. If you don't already have Hugo installed please follow the official [installation guide](https://gohugo.io/getting-started/installing/)
+E-mail: <rhys.newell@uqconnect.edu.au>
 
-### Check Hugo Version
+LinkedIn: [Rhys Newell](https://www.linkedin.com/in/rhys-newell-UQ/)
 
-This theme uses [Hugo Pipes](https://gohugo.io/hugo-pipes/scss-sass/) to compile SCSS and minify assets. Please make sure you have the `Hugo Extended` version installed. If you are not using the extended version this theme will not not compile.
+Rhys has been working on assessing the reproducibility of genome wide binding assays like ChIP-seq and ChIA-PET when multiple replicates are present. He completed his honours thesis in semester 1 of 2018, at the university of Queensland under the supervision of Alex Essebier and Mikael Boden.
 
-```
-hugo version
-```
+Rhys' honours project involved the development of a tool capable of assessing the reproducibility of ChIP-seq peaks using the rank product statistical method. The tool is publicly available for use at …
+
+Rhys plans to begin a PhD project during the second half of 2018. 
