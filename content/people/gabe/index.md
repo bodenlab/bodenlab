@@ -6,8 +6,6 @@ summary: " "
 
 ---
 
-GABE
-
 Email: <gabriel.foley@uqconnect.edu.au>
 
 LinkedIn: [gabrielfoley](https://www.linkedin.com/in/gabrielfoley)
